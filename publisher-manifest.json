@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "db55b5980265db380bcda230",
+  "owner": "kjcpyecst",
+  "repo": "page-c5014424dae7aa4c237f3049",
+  "title": "机场榜单Top1",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c5014424dae7aa4c237f3049",
+      "a": "YukiMo",
+      "b": "机场榜单Top1",
+      "entity": "YukiMo",
+      "brand": "机场榜单Top1",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f67bae7098970a7c91a8db883944ba2199837d98170a8345aeb3a4ef524bb38c",
+      "content": {
+        "primary_entity": "YukiMo",
+        "keyword1": "YukiMo",
+        "keyword2": "机场榜单Top1",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择适配客户端，在客户端内导入订阅地址即可开始使用。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐与客户端，导入订阅即可开始连接。",
+          "AI_CLOSING_TITLE": "开始使用 YukiMo",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，按设备数量与月流量区分，支持按年付方式订阅，在常用客户端中导入订阅地址即可使用。",
+          "AI_FEATURES_INTRO": "从设备数量、月流量与订阅周期三个角度选择套餐，能更快匹配日常使用需求。",
+          "AI_FEATURES_TITLE": "选择套餐的三个角度",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台同时在线。",
+          "AI_FEATURE_TEXT_2": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB 极速流量。",
+          "AI_FEATURE_TEXT_3": "月付灵活，按年付仅需 ¥150、¥350、¥850，适合长期稳定使用。",
+          "AI_FEATURE_TITLE_1": "按设备数量选",
+          "AI_FEATURE_TITLE_2": "按月流量选",
+          "AI_FEATURE_TITLE_3": "按订阅周期选",
+          "AI_GUIDE_INTRO": "结合设备数量与月流量选择套餐，再依客户端文档完成订阅配置。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "YukiMo 提供多档海外加速订阅，按设备数量与月流量划分套餐，覆盖基础浏览、流媒体与游戏加速等场景，在常用客户端导入订阅即可连接使用。",
+          "AI_HERO_SUBTITLE": "多档订阅匹配不同设备需求",
+          "AI_HIGHLIGHT_1": "三档订阅，按设备数量与流量区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线与流媒体解锁",
+          "AI_HIGHLIGHT_3": "支持月付与按年付两种订阅方式",
+          "AI_PLANS_INTRO": "三档套餐按月流量、设备数量与节点权益区分，日常轻量选基础版，多设备与流媒体选旗舰版，团队协作选团队版。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与月流量，在基础版、旗舰版和团队版之间选择合适套餐。",
+          "AI_STEP_TEXT_2": "查看套餐对设备数量与客户端的适配要求，确认设备系统是否支持。",
+          "AI_STEP_TEXT_3": "参照所用客户端的订阅导入文档，添加订阅地址后连接节点即可使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "按客户端配置订阅",
+          "AI_VISUAL_TITLE": "YukiMo 多档订阅灵活选择",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何选择适合自己的套餐？",
+          "AI_FAQ_ANSWER_1": "个人手机加电脑使用可选基础版 3 台设备；需要流媒体解锁与游戏专线可选旗舰版 5 台设备；团队协作或较多设备同时在线可选团队版 20 台设备。",
+          "AI_FAQ_QUESTION_2": "订阅支持哪些设备导入？",
+          "AI_FAQ_ANSWER_2": "常见手机、平板与桌面系统均有对应客户端，具体支持情况请参照各客户端文档，按说明导入订阅链接即可使用。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月计费，年付一次性支付一年费用，年付价格约为月付的十个月，长期使用年付更划算。",
+          "AI_FAQ_QUESTION_4": "设备数量超出套餐限制怎么办？",
+          "AI_FAQ_ANSWER_4": "同时在线设备数超出当前套餐上限时，可升级至更高一档套餐，或减少同时连接设备数量以符合套餐规定。",
+          "AI_FAQ_QUESTION_5": "流量用完后如何处理？",
+          "AI_FAQ_ANSWER_5": "当月流量用尽后，可等待下个计费周期重置，或升级至更高流量档位的套餐，以满足后续使用需求。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "b8d2fde2fd2b8189c26b67bbf35f94310d30867bb513d50b427fa0bf21523dd2",
+    "sitemap.xml": "25af5385ce2f1e2b1206e60c7f77a5c388a0857d2c53a599019e9ae8fc382557",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "567e369a374ff107873fc48aabe0c62ca9b3b324a5b3d97166653ec8d70afd27"
+}
